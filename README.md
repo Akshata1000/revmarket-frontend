@@ -1,7 +1,5 @@
 # revmarket-frontend
 
-# 🚗 Revmarket - Vehicle Buy & Sell Web App  
-
 Revmarket is a **React.js-based** web application that allows users to buy and sell vehicles online. This project is currently frontend-only and will be integrated with a backend in the future.  
 
 ## **📌 Features**  
