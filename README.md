@@ -1,18 +1,6 @@
 # revmarket-frontend
-
-Revmarket is a **React.js-based** web application that allows users to buy and sell vehicles online. This project is currently frontend-only and will be integrated with a backend in the future.  
-
-## **📌 Features**  
-✅ Browse and buy vehicles  
-✅ Sell vehicles by listing them  
-✅ Save (shortlist) favorite cars  
-✅ User dashboard for managing saved cars  
-✅ Admin panel (Protected route)  
-✅ Responsive UI using Material-UI  
-
----
-
-## **🛠 Prerequisites**  
+ 
+## ** Prerequisites**  
 Before setting up this project, ensure you have the following installed:  
 
 - **Node.js** (LTS version) → [Download Here](https://nodejs.org/)  
@@ -130,25 +118,10 @@ npm install
 npm start
 ```
 
-3️⃣ **Check for console errors in the browser and terminal.**  
+ 
 
----
 
-## **📌 Step 10: Future Enhancements**  
-🔹 **Google Authentication** 🔐  
-🔹 **Backend Integration** (Node.js, Express, MongoDB)  
-🔹 **Car Price Estimator (AI-based)** 🚗  
-🔹 **Mobile App Development** 📱  
 
----
-
-## **📌 Contributors**  
-- **[Your Name]** - Developer  
-- **[Contributor Name]** - UI/UX Designer  
-
-Feel free to contribute and improve this project! 🚀  
-
-📩 **For Questions:** Contact [your-email@example.com](mailto:your-email@example.com)  
  
 
 ---
